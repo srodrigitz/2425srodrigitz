@@ -11,12 +11,14 @@
     <link>https://srodrigitz.github.io/2425srodrigitz/imagenes/noticia1.jpg</link>
     <description>Se muestra la imagen de la noticia 1</description>
     <author>srodrigitz@birt.eus (Samuel Rodrigitz)</author>
+    <pubDate></pubDate>
   </item>
   <item>
     <title>Noticia 2</title>
     <link>https://srodrigitz.github.io/2425srodrigitz/imagenes/noticia2.jpg</link>
     <description>Se muestra la imagen de la noticia 2</description>
     <author>srodrigitz@birt.eus (Samuel Rodrigitz)</author>
+    <pubDate></pubDate>
   </item>
 </channel>
 </rss>
