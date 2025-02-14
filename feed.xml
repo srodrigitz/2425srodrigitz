@@ -19,19 +19,5 @@
     <description>Se muestra la imagen de la noticia 2</description>
     <author>srodrigitz@birt.eus</author>
   </item>
-
-  <item>
-    <title>Noticia 3</title>
-    <link>https://srodrigitz.github.io/2425srodrigitz/imagenes/noticia3.jpg</link>
-    <description>Se muestra la imagen de la noticia 3</description>
-    <author>srodrigitz@birt.eus</author>
-  </item>
-  
-  <item>
-    <title>Noticia 4</title>
-    <link>https://srodrigitz.github.io/2425srodrigitz/imagenes/noticia4.jpg</link>
-    <description>Se muestra la imagen de la noticia 4</description>
-    <author>srodrigitz@birt.eus</author>
-  </item>
 </channel>
 </rss>
